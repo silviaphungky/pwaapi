@@ -1,146 +1,144 @@
 {
   "users": [
-    [
-      {
-        "id": 1,
-        "first_name": "Garfield",
-        "last_name": "Strathearn",
-        "email": "gstrathearn0@vistaprint.com",
-        "gender": "Male"
-      },
-      {
-        "id": 2,
-        "first_name": "Godfry",
-        "last_name": "O'Dunneen",
-        "email": "godunneen1@loc.gov",
-        "gender": "Male"
-      },
-      {
-        "id": 3,
-        "first_name": "Fifi",
-        "last_name": "Kenen",
-        "email": "fkenen2@jiathis.com",
-        "gender": "Female"
-      },
-      {
-        "id": 4,
-        "first_name": "Sanford",
-        "last_name": "Girardoni",
-        "email": "sgirardoni3@elpais.com",
-        "gender": "Male"
-      },
-      {
-        "id": 5,
-        "first_name": "Nevin",
-        "last_name": "Nolli",
-        "email": "nnolli4@w3.org",
-        "gender": "Male"
-      },
-      {
-        "id": 6,
-        "first_name": "Ophelie",
-        "last_name": "Raddon",
-        "email": "oraddon5@bing.com",
-        "gender": "Female"
-      },
-      {
-        "id": 7,
-        "first_name": "Raine",
-        "last_name": "Beales",
-        "email": "rbeales6@census.gov",
-        "gender": "Polygender"
-      },
-      {
-        "id": 8,
-        "first_name": "Alys",
-        "last_name": "Vasyukhichev",
-        "email": "avasyukhichev7@state.gov",
-        "gender": "Female"
-      },
-      {
-        "id": 9,
-        "first_name": "Nikaniki",
-        "last_name": "Stockow",
-        "email": "nstockow8@123-reg.co.uk",
-        "gender": "Female"
-      },
-      {
-        "id": 10,
-        "first_name": "Sandie",
-        "last_name": "Arens",
-        "email": "sarens9@cbc.ca",
-        "gender": "Female"
-      },
-      {
-        "id": 11,
-        "first_name": "Fredek",
-        "last_name": "Arboin",
-        "email": "farboina@omniture.com",
-        "gender": "Male"
-      },
-      {
-        "id": 12,
-        "first_name": "Indira",
-        "last_name": "Charpin",
-        "email": "icharpinb@seattletimes.com",
-        "gender": "Female"
-      },
-      {
-        "id": 13,
-        "first_name": "Lyndell",
-        "last_name": "Serraillier",
-        "email": "lserraillierc@dropbox.com",
-        "gender": "Female"
-      },
-      {
-        "id": 14,
-        "first_name": "Kenn",
-        "last_name": "Hush",
-        "email": "khushd@t-online.de",
-        "gender": "Male"
-      },
-      {
-        "id": 15,
-        "first_name": "Dillie",
-        "last_name": "De Bischof",
-        "email": "ddebischofe@army.mil",
-        "gender": "Male"
-      },
-      {
-        "id": 16,
-        "first_name": "Betteann",
-        "last_name": "Tanser",
-        "email": "btanserf@yellowbook.com",
-        "gender": "Female"
-      },
-      {
-        "id": 17,
-        "first_name": "Erika",
-        "last_name": "Verry",
-        "email": "everryg@ox.ac.uk",
-        "gender": "Female"
-      },
-      {
-        "id": 18,
-        "first_name": "Joyann",
-        "last_name": "Clutram",
-        "email": "jclutramh@smugmug.com",
-        "gender": "Female"
-      },
-      {
-        "id": 19,
-        "first_name": "Payton",
-        "last_name": "Lightwood",
-        "email": "plightwoodi@ebay.co.uk",
-        "gender": "Male"
-      },
-      {
-        "id": 20,
-        "first_name": "Janos",
-        "last_name": "Mossbee",
-        "email": "jmossbeej@uiuc.edu",
-        "gender": "Male"
-      }
-    ]
+    {
+      "id": 1,
+      "first_name": "Garfield",
+      "last_name": "Strathearn",
+      "email": "gstrathearn0@vistaprint.com",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "first_name": "Godfry",
+      "last_name": "O'Dunneen",
+      "email": "godunneen1@loc.gov",
+      "gender": "Male"
+    },
+    {
+      "id": 3,
+      "first_name": "Fifi",
+      "last_name": "Kenen",
+      "email": "fkenen2@jiathis.com",
+      "gender": "Female"
+    },
+    {
+      "id": 4,
+      "first_name": "Sanford",
+      "last_name": "Girardoni",
+      "email": "sgirardoni3@elpais.com",
+      "gender": "Male"
+    },
+    {
+      "id": 5,
+      "first_name": "Nevin",
+      "last_name": "Nolli",
+      "email": "nnolli4@w3.org",
+      "gender": "Male"
+    },
+    {
+      "id": 6,
+      "first_name": "Ophelie",
+      "last_name": "Raddon",
+      "email": "oraddon5@bing.com",
+      "gender": "Female"
+    },
+    {
+      "id": 7,
+      "first_name": "Raine",
+      "last_name": "Beales",
+      "email": "rbeales6@census.gov",
+      "gender": "Polygender"
+    },
+    {
+      "id": 8,
+      "first_name": "Alys",
+      "last_name": "Vasyukhichev",
+      "email": "avasyukhichev7@state.gov",
+      "gender": "Female"
+    },
+    {
+      "id": 9,
+      "first_name": "Nikaniki",
+      "last_name": "Stockow",
+      "email": "nstockow8@123-reg.co.uk",
+      "gender": "Female"
+    },
+    {
+      "id": 10,
+      "first_name": "Sandie",
+      "last_name": "Arens",
+      "email": "sarens9@cbc.ca",
+      "gender": "Female"
+    },
+    {
+      "id": 11,
+      "first_name": "Fredek",
+      "last_name": "Arboin",
+      "email": "farboina@omniture.com",
+      "gender": "Male"
+    },
+    {
+      "id": 12,
+      "first_name": "Indira",
+      "last_name": "Charpin",
+      "email": "icharpinb@seattletimes.com",
+      "gender": "Female"
+    },
+    {
+      "id": 13,
+      "first_name": "Lyndell",
+      "last_name": "Serraillier",
+      "email": "lserraillierc@dropbox.com",
+      "gender": "Female"
+    },
+    {
+      "id": 14,
+      "first_name": "Kenn",
+      "last_name": "Hush",
+      "email": "khushd@t-online.de",
+      "gender": "Male"
+    },
+    {
+      "id": 15,
+      "first_name": "Dillie",
+      "last_name": "De Bischof",
+      "email": "ddebischofe@army.mil",
+      "gender": "Male"
+    },
+    {
+      "id": 16,
+      "first_name": "Betteann",
+      "last_name": "Tanser",
+      "email": "btanserf@yellowbook.com",
+      "gender": "Female"
+    },
+    {
+      "id": 17,
+      "first_name": "Erika",
+      "last_name": "Verry",
+      "email": "everryg@ox.ac.uk",
+      "gender": "Female"
+    },
+    {
+      "id": 18,
+      "first_name": "Joyann",
+      "last_name": "Clutram",
+      "email": "jclutramh@smugmug.com",
+      "gender": "Female"
+    },
+    {
+      "id": 19,
+      "first_name": "Payton",
+      "last_name": "Lightwood",
+      "email": "plightwoodi@ebay.co.uk",
+      "gender": "Male"
+    },
+    {
+      "id": 20,
+      "first_name": "Janos",
+      "last_name": "Mossbee",
+      "email": "jmossbeej@uiuc.edu",
+      "gender": "Male"
+    }
   ]
 }
